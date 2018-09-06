@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/307ab490-c13a-49ae-8a57-a7673876e8aa/resourceGroups/PythonEmailBot/providers/Microsoft.Web/sites/PythonEmailBot",
+    "appService.deploySubpath": ""
+}

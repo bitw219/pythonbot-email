@@ -1,0 +1,4 @@
+Flask==0.12.1
+msrest==0.4.29
+botbuilder-core>=4.0.0.a6
+aiohttp>=3.0.0
